@@ -9,7 +9,7 @@ def create_guest():
     # get guest input 
     def add_guest():
         name = input("enter guest name: ").strip().title()
-        
+
 
 # change the guest
 
